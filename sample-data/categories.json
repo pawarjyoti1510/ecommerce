@@ -1,0 +1,10 @@
+[
+  { "name": "Men Clothing",        "code": "MENS", "description": "Shirts, t-shirts, jeans, kurtas and ethnic wear for men" },
+  { "name": "Footwear",            "code": "FOOT", "description": "Shoes, sandals, sneakers and slippers for men, women and kids" },
+  { "name": "Sports and Fitness",  "code": "SPRT", "description": "Gym equipment, sports gear, yoga mats and fitness accessories" },
+  { "name": "Grocery",             "code": "GROC", "description": "Daily essentials, staples, snacks, beverages and packaged food" },
+  { "name": "Furniture",           "code": "FURN", "description": "Sofas, beds, tables, chairs and storage furniture for home and office" },
+  { "name": "Health and Wellness", "code": "HLTH", "description": "Supplements, personal care devices and wellness products" },
+  { "name": "Jewellery",           "code": "JEWL", "description": "Gold, silver, artificial and fashion jewellery" },
+  { "name": "Stationery",          "code": "STAT", "description": "Notebooks, pens, art supplies and office stationery" }
+]
